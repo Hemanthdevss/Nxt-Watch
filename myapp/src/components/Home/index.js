@@ -8,10 +8,6 @@ import {AiOutlineClose, AiOutlineSearch} from 'react-icons/ai'
 import {Component} from 'react'
 import Cookies from 'js-cookie'
 import Loader from 'react-loader-spinner'
-
-import ThemeContext from '../../context/ThemeContext'
-
-import Header from '../Header'
 import {
   MediaLogo,
   SideBarPara,
@@ -41,7 +37,12 @@ import {
   Reason,
   EmptyViewContainer,
   LoaderContainer,
-} from './StyledComponents'
+} from './styledComponents'
+
+import ThemeContext from '../../context/ThemeContext'
+
+import Header from '../Header'
+
 import './index.css'
 
 const apiUrlStatusConstant = {

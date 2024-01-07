@@ -18,7 +18,7 @@ import {
   Heading,
   NotFoundImage,
   Para,
-} from './styledComponents'
+} from './StyledComponents'
 
 const sideBarContent = [
   {id: 0, icon: <IoMdHome />, title: 'Home', link: '/'},

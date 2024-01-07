@@ -28,7 +28,7 @@ import {
   TopContainer,
   LogoElement,
   Heading,
-} from './styledComponents'
+} from './StyledComponents'
 
 const sideBarContent = [
   {id: 0, icon: <IoMdHome />, title: 'Home', link: '/'},

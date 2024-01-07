@@ -33,7 +33,7 @@ import {
   TextContainer,
   Logo,
   Text,
-} from './styledComponents'
+} from './StyledComponents'
 
 const apiUrlStatusConstant = {
   initial: 'INITIAL',

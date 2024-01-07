@@ -2,7 +2,7 @@ import {Component} from 'react'
 import Cookies from 'js-cookie'
 import {Redirect} from 'react-router-dom'
 import ThemeContext from '../../context/ThemeContext'
-import LoginButton from './styledComponents'
+import LoginButton from './StyledComponents'
 
 import './index.css'
 

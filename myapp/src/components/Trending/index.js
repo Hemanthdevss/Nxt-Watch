@@ -33,7 +33,7 @@ import {
   LogoElement,
   Heading,
   LoaderContainer,
-} from './styledComponents'
+} from './StyledComponents'
 
 const apiUrlStatusConstant = {
   initial: 'INITIAL',
